@@ -4,8 +4,8 @@
  * Date Completed: 24 February 2016
  *
  * Description: A class that represents a calculator. This class will
- *				allow the user to input an expression, and the calculator 
- *				will evaluate the expression using a custom stack class.
+ *		allow the user to input an expression, and the calculator 
+ *		will evaluate the expression using a custom stack class.
  *************************************************************************/
 
 #ifndef CALCULATOR_H_
