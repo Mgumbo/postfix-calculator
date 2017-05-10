@@ -1,6 +1,10 @@
 # Postfix Calculator
 Files for a calculator that converts infix notation to postfix, and then evaluates the expression.
 
+NOTE
+
+This calculator uses a custom stack class (`Mystack`) that is defined in another repository.
+
 USAGE
 
 Expressions are entered in the standard infix notation and will be evaluated with the standard PEMDAS order of operations. Spaces can be entered into the expression as desired and will not affect the result. For example:
