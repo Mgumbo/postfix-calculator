@@ -4,7 +4,7 @@
  * Date Completed: 24 February 2016
  *
  * Description: File containing the implementation for
- *				the Calculator class.
+ *		the Calculator class.
  ***************************************************************/
 
 #include <iostream>
