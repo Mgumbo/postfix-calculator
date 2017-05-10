@@ -4,8 +4,8 @@
  * Date Completed: 24 February 2016
  *
  * Description: A driver program that creates a Calculator object
- *				and calls the object's start() method to begin
- *				user interaction with the program.
+ *		and calls the object's start() method to begin
+ *		user interaction with the program.
  **/
 
 #include <iostream>
